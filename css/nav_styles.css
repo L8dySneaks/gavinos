@@ -12,6 +12,10 @@ body {
   height: 100%;
 }
 
+.navbar-brand>img {
+  max-width: 350px;
+}
+
 .navbar-right {
   font-family: 'PT Sans', sans-serif;
   text-transform: uppercase;
@@ -22,7 +26,7 @@ body {
 }
 
 .navbar-default .navbar-nav>li>a {
-  color: #a5a5a5;
+  color: #fff;
 }
 
 .navbar-default .navbar-nav>li>a:focus,
@@ -129,6 +133,55 @@ p {
   border-bottom: 2px solid #a5a5a5;
 }
 
+
+/********  SPECIALS PAGE ***************/
+#coupons_container .row {
+  /*margin-bottom: 30px;*/
+}
+
+.couponbox {
+  border: solid 2px #205740;
+  margin-bottom: 20px;
+}
+
+.coupon-title {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+
+.coupon-desc,
+.coupon-desc-two {
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.coupon-exclusions {
+  font-size: 12px;
+  font-style: italic;
+  font-weight: 600;
+  margin-top: 5px;
+  text-transform: uppercase;
+}
+
+.coupon-desc-two {
+  margin-top: 5px;
+}
+
+.coupon-price {
+  font-size: 22px;
+  font-weight: 800;
+  margin-top: 5px;
+}
+
+.coupon-details {
+  font-size: 10px;
+  font-style: italic;
+  margin-top: 20px;
+}
+
 .btn-menu {
   font-family: 'PT Sans', sans-serif;
   font-size: 14px;
@@ -206,6 +259,7 @@ footer {
 	/* Extra Small Devices, Phones */
 	@media only screen and (min-width : 480px){
 
+
 	}
 
   @media (max-width: 767px) {
@@ -219,12 +273,23 @@ footer {
       color: #cc3b40;
     }
 
+    /********  SPECIALS PAGE ***************/
+    #coupons_container .row {
+      /*margin-bottom: 30px;*/
+    }
+
+    .couponbox {
+      border: solid 2px #205740;
+      margin-bottom: 30px;
+      padding: 10px 5px;
+    }
+
   }
 
 	/* Small Devices, Tablets */
 	@media only screen and (min-width : 768px){
     body {
-      font-size: 14px;
+      font-size: 12px;
     }
     .navbar {
         border-radius: 0;
@@ -235,7 +300,17 @@ footer {
     .white {
       padding: 60px;
     }
+    /********  SPECIALS PAGE ***************/
+    #coupons_container .row {
+      /*margin-bottom: 30px;*/
+    }
 
+    .couponbox {
+      border: solid 2px #205740;
+      margin-bottom: 30px;
+      min-height: 380px;
+      padding: 15px 10px;
+    }
     .google-map {
       margin-top: 60px;
       max-width: 400px;

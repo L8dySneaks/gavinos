@@ -45,7 +45,7 @@
             <span class="icon-bar"></span>
           </button>
           <a href="index.php" class="navbar-brand">
-            <img src="images/gavinos_logo.png">
+            <img src="images/gavwhite.png">
           </a>
         </div>
 
@@ -76,7 +76,7 @@
                 <li><a href="images/gavinos_menu0417.pdf" target="_blank">Full Menu</a></li>
               </ul>
             </li><!-- End Dropdown menu item -->
-            <!-- <li class="main-menu-item"><a href="#">Specials</a></li> -->
+            <li class="main-menu-item"><a href="specials.php">Specials</a></li>
             <li class="main-menu-item"><a href="locations.php">Locations</a></li>
           </ul>
         </div><!-- /.navbar-collapse -->
