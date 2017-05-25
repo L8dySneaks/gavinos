@@ -45,31 +45,31 @@
     <tbody>
       <tr>
         <td>Traditional</td>
-        <td>$6.99</td>
-        <td>$9.99</td>
-        <td>$11.99</td>
-        <td>$12.99</td>
+        <td><strong>$6.99</strong></td>
+        <td><strong>$9.99</strong></td>
+        <td><strong>$11.99</strong></td>
+        <td><strong>$12.99</strong></td>
       </tr>
       <tr>
         <td>White Pizza</td>
-        <td>$6.99</td>
-        <td>$9.99</td>
-        <td>$11.99</td>
-        <td>$12.99</td>
+        <td><strong>$6.99</strong></td>
+        <td><strong>$9.99</strong></td>
+        <td><strong>$11.99</strong></td>
+        <td><strong>$12.99</strong></td>
       </tr>
       <tr>
         <td>Deep Dish</td>
-        <td>$6.99</td>
-        <td>$9.99</td>
-        <td>N/A</td>
-        <td>N/A</td>
+        <td><strong>$6.99</strong></td>
+        <td><strong>$9.99</strong></td>
+        <td><strong>N/A</strong></td>
+        <td><strong>N/A</strong></td>
       </tr>
       <tr>
         <td>Extra Toppings</td>
-        <td>.99</td>
-        <td>$1.69</td>
-        <td>$1.99</td>
-        <td>$2.39</td>
+        <td><strong>.99</strong></td>
+        <td><strong>$1.69</strong></td>
+        <td><strong>$1.99</strong></td>
+        <td><strong>$2.39</strong></td>
       </tr>
     </tbody>
   </table>
@@ -87,9 +87,9 @@
     <div class="col-md-12 text-center">
       <h3 class="red">Sicilian Pizza</h3>
       <div class="col-xs-3 col-md-3 text-right">16 Cut</div>
-      <div class="col-xs-3 col-md-3">$11.99</div>
+      <div class="col-xs-3 col-md-3"><strong>$11.99</strong></div>
       <div class="col-xs-3 col-md-3 ">Toppings</div>
-      <div class="col-xs-3 col-md-3 text-left">$2.39</div>
+      <div class="col-xs-3 col-md-3 text-left"><strong>$2.39</strong></div>
     </div>
   </div>
 

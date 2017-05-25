@@ -45,7 +45,7 @@
             <span class="icon-bar"></span>
           </button>
           <a href="index.php" class="navbar-brand">
-            <img src="images/gavwhite.png">
+            <img src="images/gavwhite.png" class="img-responsive" alt="Gavino's Pizzeria">
           </a>
         </div>
 

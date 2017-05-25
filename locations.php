@@ -49,6 +49,9 @@
           </p>
         </div>
         <div class="col-md-6">
+          <div class="store-img">
+            <img src="images/gavinos_store.jpg" class="img-responsive" alt="Gavino's Pizzeria Store">
+          </div>
           <div class="embed-responsive embed-responsive-4by3 google-map">
             <iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3088.5098479435424!2d-80.06195310360728!3d40.46528601690476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8834f5c95a9c2397%3A0xfae4f7e2c93c71e5!2s528+Chartiers+Ave%2C+McKees+Rocks%2C+PA+15136!5e0!3m2!1sen!2sus!4v1495032700010" style="border:0" allowfullscreen></iframe>
           </div>
